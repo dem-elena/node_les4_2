@@ -1,0 +1,13 @@
+{
+  "name": "lesson4-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "dev":   "nodemon index"
+  },
+  "author": "",
+  "license": "ISC"
+}
